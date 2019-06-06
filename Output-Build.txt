@@ -1,0 +1,3 @@
+﻿------ Build started: Project: Rubik_Cube, Configuration: Debug x86 ------
+  Rubik_Cube -> C:\Documents and Settings\mcc\my documents\visual studio 2010\Projects\Color_Cube\Rubik_Cube\Rubik_Cube\bin\x86\Debug\Rubik_Cube.exe
+========== Build: 1 succeeded, 0 failed, 1 up-to-date, 0 skipped ==========
